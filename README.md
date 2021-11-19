@@ -9,6 +9,7 @@ An example of the simplest scheme v. 1.0: ![This is an image](https://user-image
 ### Schematic symbols
 Elements used in network diagrams:<br/>
 ![Schematic symbols](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/blob/main/Schematic%20symbols/Schematic%20symbols.jpg)
+Crossing the border of the rectangle means crossing the firewall.
 ## Have an idea for improvement?
 * Submit your pull reguest;
 * Create [issue](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/issues/new);
