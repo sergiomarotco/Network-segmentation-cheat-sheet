@@ -1,1 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T20:44:15.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" version="15.8.3" etag="9Hzz5dX45FQqYwhFtExv" type="github"><diagram id="NAMquWqF7pGOmIKc8PHd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-19T21:01:24.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="rf2Er20GLFbYsDT-YjmD" version="15.8.3" type="github">
+  <diagram id="NAMquWqF7pGOmIKc8PHd" name="Page-1">
+    <mxGraphModel dx="1069" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="71WnQEzVXnST52P7grDc-6" value="Filled logical group of segments AND logical groups" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=top;fillColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="200" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-11" value="Filled logical group of segments" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=top;fillColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="80" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-1" value="Network segment (VLAN e.g.)" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-2" value="Logical group&lt;br&gt;of segments or other logical groups" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=middle;fillColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-3" value="Filled logical group of segments" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=top;fillColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="40" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-4" value="Network segment 1 (VLAN e.g.)" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-5" value="Network segment 2 (VLAN e.g.)" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="200" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-7" value="Network segment 1 (VLAN e.g.)" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-8" value="Network segment 2 (VLAN e.g.)" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-9" value="Network segment 1 (VLAN e.g.)" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="400" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-10" value="Network segment 2 (VLAN e.g.)" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;startArrow=none;startFill=0;" edge="1" parent="1" source="71WnQEzVXnST52P7grDc-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="220.09523809523807" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-14" value="Outgoing&lt;br&gt;network&lt;br&gt;access" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="71WnQEzVXnST52P7grDc-13">
+          <mxGeometry x="0.2167" y="-2" relative="1" as="geometry">
+            <mxPoint x="38" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-12" value="Network segment" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="71WnQEzVXnST52P7grDc-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="270.0952380952381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-16" value="Inbound&lt;br&gt;network&lt;br&gt;access" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="71WnQEzVXnST52P7grDc-15">
+          <mxGeometry x="0.2167" y="-2" relative="1" as="geometry">
+            <mxPoint x="38" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-17" value="Network segment" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="260" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;startArrow=classic;startFill=1;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="71WnQEzVXnST52P7grDc-20" target="71WnQEzVXnST52P7grDc-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="340.0952380952381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-19" value="Network&lt;br&gt;access&lt;br&gt;in both&lt;br&gt;directions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="71WnQEzVXnST52P7grDc-18">
+          <mxGeometry x="0.2167" y="-2" relative="1" as="geometry">
+            <mxPoint x="19" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-20" value="Network segment" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-21" value="V.W.X.Y/ZZ" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;startArrow=classic;startFill=1;endArrow=classic;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="71WnQEzVXnST52P7grDc-24" target="71WnQEzVXnST52P7grDc-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="400.0952380952381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-23" value="Network&lt;br&gt;access&lt;br&gt;in both&lt;br&gt;directions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="71WnQEzVXnST52P7grDc-22">
+          <mxGeometry x="0.2167" y="-2" relative="1" as="geometry">
+            <mxPoint x="19" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-24" value="Network segment" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-25" value="V.W.X.Y/ZZ" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="380" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-27" value="Virtual private network" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=#FFFFFF;sketch=0;fontColor=#000000;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;rotation=90;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="245" width="25" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="71WnQEzVXnST52P7grDc-28" value="One of the possible&#xa;representations of the&#xa;network device" style="shape=image;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;verticalAlign=middle;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOmNjPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyMiIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyIgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczpzb2RpcG9kaT0iaHR0cDovL3NvZGlwb2RpLnNvdXJjZWZvcmdlLm5ldC9EVEQvc29kaXBvZGktMC5kdGQiIHhtbG5zOmlua3NjYXBlPSJodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy9uYW1lc3BhY2VzL2lua3NjYXBlIiB2ZXJzaW9uPSIxLjEiIGlkPSJzdmc5NzA4NCIgaW5rc2NhcGU6dmVyc2lvbj0iMC45Mi4zICgyNDA1NTQ2LCAyMDE4LTAzLTExKSIgc29kaXBvZGk6ZG9jbmFtZT0ic3FsX2RhdGFiYXNlLnN2ZyIgeD0iMHB4IiB5PSIwcHgiIHZpZXdCb3g9IjAgMCA3NS41MiAxMDAuMTEiIHhtbDpzcGFjZT0icHJlc2VydmUiIHdpZHRoPSI3NS41MTk5OTciIGhlaWdodD0iMTAwLjExIj48bWV0YWRhdGEgaWQ9Im1ldGFkYXRhMTcyNiI+PHJkZjpSREY+PGNjOldvcmsgcmRmOmFib3V0PSIiPjxkYzpmb3JtYXQ+aW1hZ2Uvc3ZnK3htbDwvZGM6Zm9ybWF0PjxkYzp0eXBlIHJkZjpyZXNvdXJjZT0iaHR0cDovL3B1cmwub3JnL2RjL2RjbWl0eXBlL1N0aWxsSW1hZ2UiLz48ZGM6dGl0bGUvPjwvY2M6V29yaz48L3JkZjpSREY+PC9tZXRhZGF0YT48ZGVmcyBpZD0iZGVmczE3MjQiPiYjeGE7CSYjeGE7JiN4YTsJJiN4YTsmI3hhOwkmI3hhOyYjeGE7CSYjeGE7JiN4YTsJJiN4YTsmI3hhOwkmI3hhOyYjeGE7CSYjeGE7JiN4YTsJJiN4YTsmI3hhOwkmI3hhOyYjeGE7CQkmI3hhOwkmI3hhOwkJJiN4YTsJJiN4YTsJCSYjeGE7CSYjeGE7CQkmI3hhOwkmI3hhOwkJJiN4YTsJJiN4YTsJCSYjeGE7CSYjeGE7CQkmI3hhOwkmI3hhOwkJJiN4YTsJPC9kZWZzPiYjeGE7PGZpbHRlciBpZD0iZmlsdGVyXzIiPiYjeGE7CTxmZUdhdXNzaWFuQmx1ciBpZD0iZmVHYXVzc2lhbkJsdXI5NzAwMSIgc3RkRGV2aWF0aW9uPSIyIi8+JiN4YTs8L2ZpbHRlcj4mI3hhOzxzb2RpcG9kaTpuYW1lZHZpZXcgYm9yZGVyY29sb3I9IiM2NjY2NjYiIGJvcmRlcm9wYWNpdHk9IjEiIGZpdC1tYXJnaW4tYm90dG9tPSIwIiBmaXQtbWFyZ2luLWxlZnQ9IjAiIGZpdC1tYXJnaW4tcmlnaHQ9IjAiIGZpdC1tYXJnaW4tdG9wPSIwIiBncmlkdG9sZXJhbmNlPSIxMCIgZ3VpZGV0b2xlcmFuY2U9IjEwIiBpZD0ibmFtZWR2aWV3OTcwODYiIGlua3NjYXBlOmN1cnJlbnQtbGF5ZXI9InN2Zzk3MDg0IiBpbmtzY2FwZTpjeD0iLTQ2LjkyMDI2NSIgaW5rc2NhcGU6Y3k9IjM4LjczMTY2NiIgaW5rc2NhcGU6cGFnZW9wYWNpdHk9IjAiIGlua3NjYXBlOnBhZ2VzaGFkb3c9IjIiIGlua3NjYXBlOndpbmRvdy1oZWlnaHQ9IjEwMTciIGlua3NjYXBlOndpbmRvdy1tYXhpbWl6ZWQ9IjEiIGlua3NjYXBlOndpbmRvdy13aWR0aD0iMTkyMCIgaW5rc2NhcGU6d2luZG93LXg9Ii04IiBpbmtzY2FwZTp3aW5kb3cteT0iLTgiIGlua3NjYXBlOnpvb209IjUuMjE5MzE5NyIgb2JqZWN0dG9sZXJhbmNlPSIxMCIgcGFnZWNvbG9yPSIjZmZmZmZmIiBzaG93Z3JpZD0iZmFsc2UiPiYjeGE7CTwvc29kaXBvZGk6bmFtZWR2aWV3PiYjeGE7JiN4YTs8cGF0aCBpZD0icGF0aDk3MDE0IiBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIiBzdHlsZT0iZmlsbDojMDA3MmM2IiBkPSJtIDAsMTMuNjggdiA3Mi43NSBjIDAsNy41NSAxNi45MSwxMy42OCAzNy43NiwxMy42OCBWIDEzLjY4IGMgMCwwIC0zNy43NiwwIC0zNy43NiwwIHoiLz4mI3hhOyYjeGE7PHBhdGggaWQ9InBhdGg5NzAyMiIgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIgc3R5bGU9ImZpbGw6IzAwNzJjNiIgZD0ibSAzNy4yNCwxMDAuMTEgaCAwLjUyIGMgMjAuODUsMCAzNy43NiwtNi4xMyAzNy43NiwtMTMuNjggViAxMy42OCBIIDM3LjI0IFoiLz4mI3hhOyYjeGE7PHBhdGggaWQ9InBhdGg5NzAzMCIgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIgc3R5bGU9ImZpbGw6I2ZmZmZmZjtmaWxsLW9wYWNpdHk6MC4xNSIgZD0ibSAzNy4yNCwxMDAuMTEgaCAwLjUyIGMgMjAuODUsMCAzNy43NiwtNi4xMyAzNy43NiwtMTMuNjggViAxMy42OCBIIDM3LjI0IFoiLz4mI3hhOyYjeGE7PHBhdGggaWQ9InBhdGg5NzAzOCIgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIgc3R5bGU9ImZpbGw6I2ZmZmZmZiIgZD0ibSA3NS41MiwxMy42OCBjIDAsNy41NSAtMTYuOTEsMTMuNjggLTM3Ljc2LDEzLjY4IEMgMTYuOTEsMjcuMzYgMCwyMS4yMyAwLDEzLjY4IDAsNi4xMyAxNi45MSwwIDM3Ljc2LDAgNTguNjEsMCA3NS41Miw2LjEzIDc1LjUyLDEzLjY4IFoiLz4mI3hhOyYjeGE7PHBhdGggaWQ9InBhdGg5NzA0NiIgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIgc3R5bGU9ImZpbGw6IzdmYmEwMCIgZD0ibSA2Ny44LDEyLjg5IGMgMCw0Ljk5IC0xMy40NSw5LjAzIC0zMC4wNCw5LjAzIC0xNi41OSwwIC0zMC4wNCwtNC4wNCAtMzAuMDQsLTkuMDMgMCwtNC45OCAxMy40NSwtOS4wMiAzMC4wNCwtOS4wMiAxNi41OSwwIDMwLjA0LDQuMDQgMzAuMDQsOS4wMiB6Ii8+JiN4YTsmI3hhOzxwYXRoIGlkPSJwYXRoOTcwNTQiIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiIHN0eWxlPSJmaWxsOiNiOGQ0MzIiIGQ9Ik0gNjEuNTEsMTguNDEgQyA2NS40NCwxNi44OCA2Ny44LDE0Ljk3IDY3LjgsMTIuOSA2Ny44LDcuOTEgNTQuMzUsMy44NyAzNy43NiwzLjg3IDIxLjE3LDMuODcgNy43Miw3LjkxIDcuNzIsMTIuOSBjIDAsMi4wNyAyLjM2LDMuOTggNi4zLDUuNTEgNS40OSwtMi4xNCAxNC4wNywtMy41MSAyMy43NCwtMy41MSA5LjY3LDAgMTguMjUsMS4zNyAyMy43NSwzLjUxIHoiLz4mI3hhOyYjeGE7PHBhdGggaWQ9InBhdGg5NzA2MiIgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIgc3R5bGU9ImZpbGw6I2ZmZmZmZiIgZD0ibSAyNS43Nyw2NC4xOCBjIDAsMi4yNiAtMC44Miw0LjAxIC0yLjQ2LDUuMjUgLTEuNjQsMS4yNCAtMy45LDEuODcgLTYuNzksMS44NyAtMi40NiwwIC00LjUyLC0wLjQ1IC02LjE3LC0xLjMzIHYgLTUuMzIgYyAxLjksMS42MSA0LDIuNDIgNi4zLDIuNDIgMS4xLDAgMS45NiwtMC4yMiAyLjU3LC0wLjY2IDAuNiwtMC40NCAwLjksLTEuMDMgMC45LC0xLjc2IDAsLTAuNzIgLTAuMjksLTEuMzUgLTAuODcsLTEuODggLTAuNTgsLTAuNTMgLTEuNzcsLTEuMjIgLTMuNTUsLTIuMDYgLTMuNjMsLTEuNzEgLTUuNDUsLTQuMDQgLTUuNDUsLTYuOTggMCwtMi4xNCAwLjc5LC0zLjg1IDIuMzgsLTUuMTQgMS41OCwtMS4yOSAzLjY5LC0xLjk0IDYuMzEsLTEuOTQgMi4zMywwIDQuMjUsMC4zMSA1Ljc5LDAuOTEgdiA0Ljk3IGMgLTEuNjEsLTEuMTEgLTMuNDQsLTEuNjYgLTUuNDksLTEuNjYgLTEuMDMsMCAtMS44NCwwLjIyIC0yLjQ0LDAuNjYgLTAuNiwwLjQzIC0wLjksMS4wMiAtMC45LDEuNzUgMCwwLjc1IDAuMjQsMS4zNyAwLjczLDEuODUgMC40OCwwLjQ4IDEuNDcsMS4wOCAyLjk2LDEuNzkgMi4yMywxLjA1IDMuODIsMi4xMiA0Ljc2LDMuMjEgMC45NSwxLjA4IDEuNDIsMi40NCAxLjQyLDQuMDUgeiIvPiYjeGE7JiN4YTs8cGF0aCBpZD0icGF0aDk3MDcwIiBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIiBzdHlsZT0iZmlsbDojZmZmZmZmIiBkPSJtIDUxLjQxLDU4Ljc5IGMgMCwyLjgxIC0wLjY0LDUuMjQgLTEuOTEsNy4zIC0xLjI4LDIuMDYgLTMuMDcsMy41IC01LjM5LDQuMzQgbCA2LjkyLDYuNCBIIDQ0LjA1IEwgMzkuMTEsNzEuMjkgQyAzNyw3MS4yMSAzNS4wOSw3MC42NSAzMy4zOSw2OS42MSBjIC0xLjcsLTEuMDQgLTMuMDIsLTIuNDcgLTMuOTQsLTQuMjggLTAuOTMsLTEuODEgLTEuMzksLTMuODMgLTEuMzksLTYuMDUgMCwtMi40NyAwLjUsLTQuNjggMS41LC02LjYxIDEuMDEsLTEuOTMgMi40MSwtMy40MiA0LjIzLC00LjQ2IDEuODIsLTEuMDQgMy45LC0xLjU2IDYuMjUsLTEuNTYgMi4xOSwwIDQuMTYsMC41IDUuODksMS41MSAxLjczLDEuMDEgMy4wOCwyLjQ0IDQuMDQsNC4zIDAuOTYsMS44NiAxLjQ0LDMuOTcgMS40NCw2LjMzIHogbSAtNS42NSwwLjMgYyAwLC0yLjQxIC0wLjUyLC00LjMyIC0xLjU4LC01LjcyIC0xLjA1LC0xLjQgLTIuNDksLTIuMSAtNC4zMiwtMi4xIC0xLjg2LDAgLTMuMzUsMC43IC00LjQ3LDIuMSAtMS4xMiwxLjQxIC0xLjY4LDMuMjggLTEuNjgsNS42MiAwLDIuMzMgMC41NSw0LjE5IDEuNjUsNS41OCAxLjA5LDEuMzkgMi41NSwyLjA4IDQuMzYsMi4wOCAxLjg2LDAgMy4zMiwtMC42NyA0LjQxLC0yLjAyIDEuMDksLTEuMzQgMS42MywtMy4xOSAxLjYzLC01LjU0IHoiLz4mI3hhOyYjeGE7PHBhdGggaWQ9InBhdGg5NzA3OCIgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIgc3R5bGU9ImZpbGw6I2ZmZmZmZiIgZD0iTSA2OS41NCw3MC44OCBIIDU1LjM1IFYgNDcuMDUgaCA1LjM3IHYgMTkuNDcgaCA4LjgyIHoiLz4mI3hhOzwvc3ZnPg==;sketch=0;fontColor=#000000;strokeColor=default;fillColor=default;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="41" height="53" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
