@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T21:01:24.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="rf2Er20GLFbYsDT-YjmD" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T21:04:39.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="jYO0nMdEn0Sw3ewPp-rw" version="15.8.3" type="github">
   <diagram id="NAMquWqF7pGOmIKc8PHd" name="Page-1">
     <mxGraphModel dx="1069" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="71WnQEzVXnST52P7grDc-6" value="Filled logical group of segments AND logical groups" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=top;fillColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
+        <mxCell id="71WnQEzVXnST52P7grDc-6" value="Filled logical group of segments AND one logical group" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=top;fillColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="40" width="200" height="280" as="geometry" />
         </mxCell>
         <mxCell id="71WnQEzVXnST52P7grDc-11" value="Filled logical group of segments" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;sketch=0;align=center;verticalAlign=top;fillColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
