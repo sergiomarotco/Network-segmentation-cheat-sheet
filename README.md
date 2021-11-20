@@ -22,7 +22,7 @@ Segmentation according to level 2 requirements<br/>
 ## Level 2 of network segmentation: adoption of basic security practices<br/>
 ## Level 3 of network segmentation: High adoption of security practices<br/>
 ## Level 4 of network segmentation: Advanced deployment of security practices at scale<br/>
-### Schematic symbols
+## Schematic symbols
 Elements used in network diagrams:<br/>
 ![Schematic symbols](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/blob/main/Schematic%20symbols/Schematic%20symbols.jpg)<br/>
 Crossing the border of the rectangle means crossing the firewall.
