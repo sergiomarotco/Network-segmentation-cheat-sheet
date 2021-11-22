@@ -11,7 +11,7 @@ Elements used in network diagrams:<br/>
 ![Schematic symbols](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/blob/main/Schematic%20symbols/Schematic%20symbols.jpg)<br/>
 Crossing the border of the rectangle means crossing the firewall.
 
-## Level 1 of network segmentation: basic sergmentation<br/>
+## Level 1 of network segmentation: basic segmentation<br/>
 ![Level 1](https://user-images.githubusercontent.com/29877074/142885564-3ea11fd1-c6ab-4e8c-8c31-8d0b9e32b3d6.jpg)
 
 ### Advantages
