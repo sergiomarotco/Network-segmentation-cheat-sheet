@@ -20,7 +20,7 @@ Installation the maximum number of information protection tools, real time monit
 OR!<br/>
 Segmentation according to level 2 requirements<br/>
 ## Level 2 of network segmentation: adoption of basic security practices<br/>
-![Level 2](https://user-images.githubusercontent.com/29877074/142885553-ba682ad3-9d05-4c1f-abb0-122f63f609f0.jpg)
+![Level 2](https://user-images.githubusercontent.com/29877074/142885564-3ea11fd1-c6ab-4e8c-8c31-8d0b9e32b3d6.jpg)
 ### Advantages
 More network segments in the corporate network.<br/>
 Full duplication of the main supporting infrastructure for production network such as:
