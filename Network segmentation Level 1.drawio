@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T13:50:33.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="jyeVYdwLWOkn0rZGVKtG" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-22T15:04:36.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="vcS7A8nfVfzG6066mQbx" version="15.8.3" type="github">
   <diagram id="KxgO63k_5TWer9FKwT7t" name="Страница 1">
     <mxGraphModel dx="2377" dy="2004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -936,9 +936,6 @@
           <mxGeometry x="-0.2737" y="1" relative="1" as="geometry">
             <mxPoint x="-2" y="30" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="jpnAEoZOlmTbx-AXAsKz-30" value="Process control system&lt;br&gt;&lt;br&gt;to be continued...&lt;br&gt;&lt;br&gt;send issue to send your ideas!!!" style="whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;fillColor=none;align=right;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="250" width="230" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="jpnAEoZOlmTbx-AXAsKz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;startArrow=none;startFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=arc;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E9SfYnyI3NtM9v9RjSlq-23" target="E9SfYnyI3NtM9v9RjSlq-8" edge="1">
           <mxGeometry relative="1" as="geometry">
