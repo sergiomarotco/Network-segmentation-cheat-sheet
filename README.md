@@ -1,11 +1,19 @@
 # Best-practice-for-network-segmentation
 ## What is this?
 This project was created to publish the best practices for segmentation of the corporate network of any company. In general, the schemes in this project are suitable for any company.
+
 ## Where can I find diagrams?
 Graphic diagrams are available in the [Release page](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/releases)
 The schema sources are located in the [repository](https://github.com/sergiomarotco/Best-practice-for-network-segmentation)
+
+## Schematic symbols
+Elements used in network diagrams:<br/>
+![Schematic symbols](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/blob/main/Schematic%20symbols/Schematic%20symbols.jpg)<br/>
+Crossing the border of the rectangle means crossing the firewall.
+
 ## Level 1 of network segmentation: basic sergmentation<br/>
 ![Level 1](https://user-images.githubusercontent.com/29877074/142885564-3ea11fd1-c6ab-4e8c-8c31-8d0b9e32b3d6.jpg)
+
 ### Advantages
 Basic segmentation to protect against basic targeted attacks that make it difficult for an attacker to advance on the network.
 Basic isolation of the productive environment from the corporate one.
@@ -19,8 +27,10 @@ In this regard, the compromise of any workstation can theoretically lead to the 
 Installation the maximum number of information protection tools, real time monitoring suspicious events and immediate response.<br/>
 OR!<br/>
 Segmentation according to level 2 requirements<br/>
+
 ## Level 2 of network segmentation: adoption of basic security practices<br/>
 ![Level 2](https://user-images.githubusercontent.com/29877074/142888377-6b06e730-5e7c-496e-89f6-7592297f4134.jpg)
+
 ### Advantages
 More network segments in the corporate network.<br/>
 Full duplication of the main supporting infrastructure for production network such as:
@@ -43,10 +53,6 @@ Stay with us, click "Watch". In the meantime, implement segmentation at level 2 
 ## Level 4 of network segmentation: Advanced deployment of security practices at scale<br/>
 Stay with us, click "Watch". In the meantime, implement segmentation at level 2 :)
 
-## Schematic symbols
-Elements used in network diagrams:<br/>
-![Schematic symbols](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/blob/main/Schematic%20symbols/Schematic%20symbols.jpg)<br/>
-Crossing the border of the rectangle means crossing the firewall.
 ## Have an idea for improvement?
 * Submit your pull reguest;
 * Create [issue](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/issues/new);
