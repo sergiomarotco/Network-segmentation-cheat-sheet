@@ -50,8 +50,38 @@ As a result, this leads to the following problems:
 ## Level 3 of network segmentation: High adoption of security practices<br/>
 Stay with us, click "Watch". In the meantime, implement segmentation at level 2 :)
 
+### Advantages
+Implementing security services such us;
+1. security operation center (SIEM, IRP, SOAR, SGRC);
+2. data leak prevention;
+3. phishing protection;
+4. sanbox;
+5. intrusion prevention system;
+6. vulnerability scanner;
+7. endpoint protection;
+
+Backup server.
+
+### Disadvantages
+
 ## Level 4 of network segmentation: Advanced deployment of security practices at scale<br/>
 Stay with us, click "Watch". In the meantime, implement segmentation at level 2 :)
+
+### Advantages
+Implementing security services such us:
+1. privileged Access Management;
+2. internal phishing training server;
+3. compliance server (configuration assessment);
+4. .
+
+Now the attacker will not be able to attack the production network, because now a potentially compromised workstation in the corporate network basically does not have network access to the industrial. Related problems:
+1. separate workstations for access to the production network - yes, now you will have 2 computers on your desktop :)
+2. other LDAP catalog or Domain controller for production network;
+3. firewall analyzer, network equipment analyzer;
+4. netflow analyzer.
+
+### Disadvantages
+Now you will have 2 computers on your desktop if you need access to production network.
 
 ## Have an idea for improvement?
 * Submit your pull reguest;
