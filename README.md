@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiomarotco&show_icons=true&theme=radical)
 # Best-practice-for-network-segmentation
 ## What is this?
 This project was created to publish the best practices for segmentation of the corporate network of any company. In general, the schemes in this project are suitable for any company.
