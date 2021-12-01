@@ -4,7 +4,7 @@
 This project was created to publish the best practices for segmentation of the corporate network of any company. In general, the schemes in this project are suitable for any company.
 
 ## Where can I find diagrams?
-Graphic diagrams are available in the [Release page](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/releases)
+Graphic diagrams are available in the [Release page](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/releases)</br>
 The schema sources are located in the [repository](https://github.com/sergiomarotco/Best-practice-for-network-segmentation)
 
 ## Schematic symbols
