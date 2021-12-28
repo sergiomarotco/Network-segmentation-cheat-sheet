@@ -41,7 +41,7 @@ Full duplication of the main supporting infrastructure for production network su
 
 Safer software development. Recommended implementing DevSecOps at least Level 1 of the [DSOMM](https://dsomm.timo-pagel.de/index.php), what requires the introduction of a separate storage of secrets for passwords, tokens, cryptographic keys, logins, etc., additional servers for SAST, DAST, fuzzing, SCA and another DevSecOps tools.
 In case of problems in the supporting infrastructure in the corporate segment, this will not affect the production environment.
-It is a little harder for an attacker to compromise a production environment.
+It is a little harder for an attacker to compromise a production environment.<br/>
 Or you can implement at least Level 2 [SLSA](https://slsa.dev).
 
 ### Disadvantages
@@ -72,8 +72,7 @@ Stay with us, click "Watch". In the meantime, implement segmentation at level 2 
 Implementing security services such us:
 1. privileged Access Management;
 2. internal phishing training server;
-3. compliance server (configuration assessment);
-4. .
+3. compliance server (configuration assessment).
 
 Now the attacker will not be able to attack the production network, because now a potentially compromised workstation in the corporate network basically does not have network access to the industrial. Related problems:
 1. separate workstations for access to the production network - yes, now you will have 2 computers on your desktop :)
