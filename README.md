@@ -60,8 +60,7 @@ Implementing security services such us;
 5. intrusion prevention system;
 6. vulnerability scanner;
 7. endpoint protection;
-
-Backup server.
+8. backup server.
 
 ### Disadvantages
 
