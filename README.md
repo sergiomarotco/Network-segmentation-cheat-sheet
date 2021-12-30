@@ -49,7 +49,7 @@ As a result, this leads to the following problems:
 1. increasing the cost of ownership and the cost of final services to customers;
 2. high complexity of maintenance.
 
-## Level 3 of network segmentation: High adoption of security practices<br/>
+## Level 3 of network segmentation: high adoption of security practices<br/>
 Stay with us, click "Watch". In the meantime, implement segmentation at level 2 :)
 
 ### Advantages
@@ -65,7 +65,7 @@ Implementing security services such us;
 
 ### Disadvantages
 
-## Level 4 of network segmentation: Advanced deployment of security practices at scale<br/>
+## Level 4 of network segmentation: advanced deployment of security practices at scale<br/>
 Stay with us, click "Watch". In the meantime, implement segmentation at level 2 :)
 
 ### Advantages
