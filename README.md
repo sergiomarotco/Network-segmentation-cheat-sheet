@@ -68,7 +68,7 @@ Implementing security services such us:
 ### Disadvantages
 High costs of information security tools and information security specialists
 
-## Level 4 of network segmentation: advanced deployment of security practices at scale<br/>
+## Level 4 of network segmentation: advanced deployment of security practices at scale
 Each production and corporate services has its own networks: Tier I, Tier II, Tier III.
 
 The production environment is accessed from isolated computers. Each isolated computer does not have:
@@ -81,7 +81,9 @@ The only way to compromise an isolated computer is to compromise the productive 
 Implement other possible security services, such as:
 1. privileged access management;
 2. internal phishing training server;
-3. compliance server (configuration assessment);
+3. compliance server (configuration assessment).
+
+![Level 4](https://github.com/sergiomarotco/network-segmentation-cheet-sheet/releases/download/4.0/Network.segmentation.Level.4.jpg)
 
 ### Advantages
 Implementing security services such us:
