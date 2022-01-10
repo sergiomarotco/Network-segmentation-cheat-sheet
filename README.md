@@ -54,7 +54,7 @@ The company's management (CEO) understands the role of cybersecurity in the life
 ![Level 3](https://github.com/sergiomarotco/network-segmentation-cheet-sheet/releases/download/3.0/Network.segmentation.Level.3.jpg)
 
 ### Advantages
-Implementing security services such us;
+Implementing security services such us:
 1. security operation center (SIEM, IRP, SOAR, SGRC);
 2. data leak prevention;
 3. phishing protection;
@@ -69,14 +69,26 @@ Implementing security services such us;
 High costs of information security tools and information security specialists
 
 ## Level 4 of network segmentation: advanced deployment of security practices at scale<br/>
-Stay with us, click "Watch". In the meantime, implement segmentation at level 3 :)
-Each service has its own networks: Tier I, Teier II, Tier III.
+Each production and corporate services has its own networks: Tier I, Tier II, Tier III.
+
+The production environment is accessed from isolated computers. Each isolated computer does not have:
+1. incoming accesses from anywhere except from remote corporate laptops via VPN;
+2. outgoing access to the corporate network:
+   - no access to the mail service - the threat of spear phishing is not possible;
+   - there is no access to internal sites and services - it is impossible to download a trojan from a compromised corporate networks.
+The only way to compromise an isolated computer is to compromise the productive environment. As a result, a successful compromise of a computer, even by phishing, will prevent a hacker from gaining access to a productive environment.
+
+Implement other possible security services, such as:
+1. privileged access management;
+2. internal phishing training server;
+3. compliance server (configuration assessment);
 
 ### Advantages
 Implementing security services such us:
-1. privileged Access Management;
+1. privileged access management;
 2. internal phishing training server;
-3. compliance server (configuration assessment).
+3. compliance server (configuration assessment);
+4. strong protection of your productive environment from spear phishing.
 
 Now the attacker will not be able to attack the production network, because now a potentially compromised workstation in the corporate network basically does not have network access to the industrial. Related problems:
 1. separate workstations for access to the production network - yes, now you will have 2 computers on your desktop :)
