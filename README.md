@@ -69,7 +69,8 @@ Implementing security services such us;
 High costs of information security tools and information security specialists
 
 ## Level 4 of network segmentation: advanced deployment of security practices at scale<br/>
-Stay with us, click "Watch". In the meantime, implement segmentation at level 2 :)
+Stay with us, click "Watch". In the meantime, implement segmentation at level 3 :)
+Each service has its own networks: Tier I, Teier II, Tier III.
 
 ### Advantages
 Implementing security services such us:
