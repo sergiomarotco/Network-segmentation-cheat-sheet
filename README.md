@@ -50,7 +50,8 @@ As a result, this leads to the following problems:
 2. high complexity of maintenance.
 
 ## Level 3 of network segmentation: high adoption of security practices<br/>
-Stay with us, click "Watch". In the meantime, implement segmentation at level 2 :)
+The company's management (CEO) understands the role of cybersecurity in the life of the company. Information security risk becomes one of the company's operational risks. Depending on the size of the company, the minimum size of an information security unit is 15-20 employees.
+![Level 3](https://github.com/sergiomarotco/network-segmentation-cheet-sheet/releases/download/3.0/Network.segmentation.Level.3.jpg)
 
 ### Advantages
 Implementing security services such us;
@@ -61,9 +62,11 @@ Implementing security services such us;
 5. intrusion prevention system;
 6. vulnerability scanner;
 7. endpoint protection;
-8. backup server.
+8. web application firewall;
+9. backup server.
 
 ### Disadvantages
+High costs of information security tools and information security specialists
 
 ## Level 4 of network segmentation: advanced deployment of security practices at scale<br/>
 Stay with us, click "Watch". In the meantime, implement segmentation at level 2 :)
