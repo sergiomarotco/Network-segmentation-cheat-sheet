@@ -76,7 +76,8 @@ The production environment is accessed from isolated computers. Each isolated co
 2. outgoing access to the corporate network:
    - no access to the mail service - the threat of spear phishing is not possible;
    - there is no access to internal sites and services - it is impossible to download a trojan from a compromised corporate networks.
-The only way to compromise an isolated computer is to compromise the productive environment. As a result, a successful compromise of a computer, even by phishing, will prevent a hacker from gaining access to a productive environment.
+
+🔥Only one way to compromise an isolated computer is to compromise the production environment. As a result, a successful compromise of a computer, even by phishing, will prevent a hacker from gaining access to a production environment.
 
 Implement other possible security services, such as:
 1. privileged access management;
@@ -90,16 +91,16 @@ Implementing security services such us:
 1. privileged access management;
 2. internal phishing training server;
 3. compliance server (configuration assessment);
-4. strong protection of your productive environment from spear phishing.
+4. strong protection of your production environment from spear phishing.
 
-Now the attacker will not be able to attack the production network, because now a potentially compromised workstation in the corporate network basically does not have network access to the industrial. Related problems:
+🔥Now the attacker will not be able to attack the production network, because now a potentially compromised workstation in the corporate network basically does not have network access to the production. Related problems:
 1. separate workstations for access to the production network - yes, now you will have 2 computers on your desktop :)
 2. other LDAP catalog or Domain controller for production network;
 3. firewall analyzer, network equipment analyzer;
 4. netflow analyzer.
 
 ### Disadvantages
-Now you will have 2 computers on your desktop if you need access to production network.
+Now you will have 2 computers on your desktop if you need access to production network. It hurts 😀
 
 ## Have an idea for improvement?
 * Submit your pull reguest;
