@@ -94,7 +94,7 @@ Implementing security services such us:
 4. strong protection of your production environment from spear phishing.
 
 🔥Now the attacker will not be able to attack the production network, because now a potentially compromised workstation in the corporate network basically does not have network access to the production. Related problems:
-1. separate workstations for access to the production network - yes, now you will have 2 computers on your desktop :)
+1. separate workstations for access to the production network - yes, now you will have 2 computers on your desktop.
 2. other LDAP catalog or Domain controller for production network;
 3. firewall analyzer, network equipment analyzer;
 4. netflow analyzer.
