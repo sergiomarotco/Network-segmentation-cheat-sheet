@@ -13,7 +13,7 @@ Elements used in network diagrams:<br/>
 Crossing the border of the rectangle means crossing the firewall.
 
 ## Level 1 of network segmentation: basic segmentation<br/>
-![Level 1](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/releases/download/2.1/Network.segmentation.Level.1.jpg)
+![Level 1](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/releases/download/4.1.1/Network.segmentation.Level.1.jpg)
 
 ### Advantages
 Basic segmentation to protect against basic targeted attacks that make it difficult for an attacker to advance on the network.
@@ -30,7 +30,7 @@ OR!<br/>
 Segmentation according to level 2 requirements<br/>
 
 ## Level 2 of network segmentation: adoption of basic security practices<br/>
-![Level 2](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/releases/download/2.1/Network.segmentation.Level.2.jpg)
+![Level 2](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/releases/download/4.1.1/Network.segmentation.Level.2.jpg)
 
 ### Advantages
 More network segments in the corporate network.<br/>
@@ -51,7 +51,7 @@ As a result, this leads to the following problems:
 
 ## Level 3 of network segmentation: high adoption of security practices<br/>
 The company's management (CEO) understands the role of cybersecurity in the life of the company. Information security risk becomes one of the company's operational risks. Depending on the size of the company, the minimum size of an information security unit is 15-20 employees.
-![Level 3](https://github.com/sergiomarotco/network-segmentation-cheet-sheet/releases/download/3.0/Network.segmentation.Level.3.jpg)
+![Level 3](https://github.com/sergiomarotco/network-segmentation-cheet-sheet/releases/download/4.1.1/Network.segmentation.Level.3.jpg)
 
 ### Advantages
 Implementing security services such us:
@@ -84,7 +84,7 @@ Implement other possible security services, such as:
 2. internal phishing training server;
 3. compliance server (configuration assessment).
 
-![Level 4](https://github.com/sergiomarotco/network-segmentation-cheet-sheet/releases/download/4.1/Network.segmentation.Level.4.jpg)
+![Level 4](https://github.com/sergiomarotco/network-segmentation-cheet-sheet/releases/download/4.1.1/Network.segmentation.Level.4.jpg)
 
 ### Advantages
 Implementing security services such us:
