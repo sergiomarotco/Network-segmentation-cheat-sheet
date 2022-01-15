@@ -62,7 +62,7 @@ Implementing security services such us:
 1. security operation center (SIEM, IRP, SOAR, SGRC);
 2. data leak prevention;
 3. phishing protection;
-4. sanbox;
+4. sandbox;
 5. intrusion prevention system;
 6. vulnerability scanner;
 7. endpoint protection;
