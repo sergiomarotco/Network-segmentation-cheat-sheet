@@ -13,7 +13,7 @@ Elements used in network diagrams:<br/>
 Crossing the border of the rectangle means crossing the firewall.
 
 ## Level 1 of network segmentation: basic segmentation<br/>
-![Level 1](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/releases/download/2.1/Network.segmentation.Level.1.jpg)
+![Level 1](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/releases/download/4.1.1/Network.segmentation.Level.1.jpg)
 
 ### Advantages
 Basic segmentation to protect against basic targeted attacks that make it difficult for an attacker to advance on the network.
@@ -30,7 +30,7 @@ OR!<br/>
 Segmentation according to level 2 requirements<br/>
 
 ## Level 2 of network segmentation: adoption of basic security practices<br/>
-![Level 2](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/releases/download/2.1/Network.segmentation.Level.2.jpg)
+![Level 2](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/releases/download/4.1.1/Network.segmentation.Level.2.jpg)
 
 ### Advantages
 More network segments in the corporate network.<br/>
@@ -49,39 +49,65 @@ As a result, this leads to the following problems:
 1. increasing the cost of ownership and the cost of final services to customers;
 2. high complexity of maintenance.
 
-## Level 3 of network segmentation: High adoption of security practices<br/>
-Stay with us, click "Watch". In the meantime, implement segmentation at level 2 :)
+## If u like it?  
+[Please subscribe - this is free support for the project](https://www.instagram.com/lizzibi)
+![image](https://user-images.githubusercontent.com/29877074/149565429-821554fc-5bab-46ea-bbe3-429f54f0e7cb.png)
 
-### Advantages
-Implementing security services such us;
-1. security operation center (SIEM, IRP, SOAR, SGRC);
-2. data leak prevention;
-3. phishing protection;
-4. sanbox;
-5. intrusion prevention system;
-6. vulnerability scanner;
-7. endpoint protection;
-8. backup server.
-
-### Disadvantages
-
-## Level 4 of network segmentation: Advanced deployment of security practices at scale<br/>
-Stay with us, click "Watch". In the meantime, implement segmentation at level 2 :)
+## Level 3 of network segmentation: high adoption of security practices<br/>
+The company's management (CEO) understands the role of cybersecurity in the life of the company. Information security risk becomes one of the company's operational risks. Depending on the size of the company, the minimum size of an information security unit is 15-20 employees.
+![Level 3](https://github.com/sergiomarotco/network-segmentation-cheet-sheet/releases/download/4.1.1/Network.segmentation.Level.3.jpg)
 
 ### Advantages
 Implementing security services such us:
-1. privileged Access Management;
+1. security operation center (SIEM, IRP, SOAR, SGRC);
+2. data leak prevention;
+3. phishing protection;
+4. sandbox;
+5. intrusion prevention system;
+6. vulnerability scanner;
+7. endpoint protection;
+8. web application firewall;
+9. backup server.
+
+### Disadvantages
+High costs of information security tools and information security specialists
+
+## Level 4 of network segmentation: advanced deployment of security practices at scale
+Each production and corporate services has its own networks: Tier I, Tier II, Tier III.
+
+The production environment is accessed from isolated computers. Each isolated computer does not have:
+1. incoming accesses from anywhere except from remote corporate laptops via VPN;
+2. outgoing access to the corporate network:
+   - no access to the mail service - the threat of spear phishing is not possible;
+   - there is no access to internal sites and services - it is impossible to download a trojan from a compromised corporate networks.
+
+🔥Only one way to compromise an isolated computer is to compromise the production environment. As a result, a successful compromise of a computer, even by phishing, will prevent a hacker from gaining access to a production environment.
+
+Implement other possible security services, such as:
+1. privileged access management;
 2. internal phishing training server;
 3. compliance server (configuration assessment).
 
-Now the attacker will not be able to attack the production network, because now a potentially compromised workstation in the corporate network basically does not have network access to the industrial. Related problems:
-1. separate workstations for access to the production network - yes, now you will have 2 computers on your desktop :)
+![Level 4](https://github.com/sergiomarotco/network-segmentation-cheet-sheet/releases/download/4.1.1/Network.segmentation.Level.4.jpg)
+
+### Advantages
+Implementing security services such us:
+1. privileged access management;
+2. internal phishing training server;
+3. compliance server (configuration assessment);
+4. strong protection of your production environment from spear phishing.
+
+🔥Now the attacker will not be able to attack the production network, because now a potentially compromised workstation in the corporate network basically does not have network access to the production. Related problems:
+1. separate workstations for access to the production network - yes, now you will have 2 computers on your desktop.
 2. other LDAP catalog or Domain controller for production network;
 3. firewall analyzer, network equipment analyzer;
 4. netflow analyzer.
 
 ### Disadvantages
-Now you will have 2 computers on your desktop if you need access to production network.
+Now you will have 2 computers on your desktop if you need access to production network. It hurts 😀
+
+## Support the project
+[Please subscribe - this is free support for the project](https://www.instagram.com/lizzibi)
 
 ## Have an idea for improvement?
 * Submit your pull reguest;
