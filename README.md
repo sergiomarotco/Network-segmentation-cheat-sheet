@@ -49,10 +49,6 @@ As a result, this leads to the following problems:
 1. increasing the cost of ownership and the cost of final services to customers;
 2. high complexity of maintenance.
 
-## If u like it?  
-[Please subscribe - this is free support for the project](https://www.instagram.com/lizzibi)
-![image](https://user-images.githubusercontent.com/29877074/149565429-821554fc-5bab-46ea-bbe3-429f54f0e7cb.png)
-
 ## Level 3 of network segmentation: high adoption of security practices<br/>
 The company's management (CEO) understands the role of cybersecurity in the life of the company. Information security risk becomes one of the company's operational risks. Depending on the size of the company, the minimum size of an information security unit is 15-20 employees.
 ![Level 3](https://github.com/sergiomarotco/network-segmentation-cheet-sheet/releases/download/4.1.1/Network.segmentation.Level.3.jpg)
@@ -113,3 +109,7 @@ Now you will have 2 computers on your desktop if you need access to production n
 * Submit your pull reguest;
 * Create [issue](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/issues/new);
 * Start [discussion](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/discussions/new).
+
+## If u like it?  
+[Please subscribe - this is free support for the project](https://www.instagram.com/lizzibi)
+![image](https://user-images.githubusercontent.com/29877074/149565429-821554fc-5bab-46ea-bbe3-429f54f0e7cb.png)
