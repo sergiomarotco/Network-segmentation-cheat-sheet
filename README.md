@@ -24,7 +24,7 @@ The default corporate network should be considered potentially compromised. Pote
 
 In this regard, the compromise of any workstation can theoretically lead to the exploitation of the following attack vector. An attacker compromises a workstation in the corporate network. Further, the attacker either elevates privileges in the corporate network or immediately attacks the production network with the rights that the attacker had previously obtained.
 
-### Attack vector protection:
+### Attack vector protection
 Installation the maximum number of information protection tools, real time monitoring suspicious events and immediate response.<br/>
 OR!<br/>
 Segmentation according to level 2 requirements<br/>
