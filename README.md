@@ -99,6 +99,8 @@ Implementing security services such us:
 3. firewall analyzer, network equipment analyzer;
 4. netflow analyzer.
 
+![hippo](https://raw.githubusercontent.com/sergiomarotco/Network-segmentation-cheat-sheet/main/Other/Powtoon_GIF.gif)
+
 ### Disadvantages
 Now you will have 2 computers on your desktop if you need access to production network. It hurts 😀
 
