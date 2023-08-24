@@ -84,7 +84,7 @@ Implement other possible security services, such as:
 2. internal phishing training server;
 3. compliance server (configuration assessment).
 
-![Level 4](https://github.com/sergiomarotco/network-segmentation-cheet-sheet/releases/download/4.1.1/Network.segmentation.Level.4.jpg)
+![Level 4](https://raw.githubusercontent.com/sergiomarotco/Network-segmentation-cheat-sheet/main/Network%20segmentation%20Level%204.jpg)
 
 ### Advantages
 Implementing security services such us:
