@@ -71,7 +71,7 @@ High costs of information security tools and information security specialists.
 ## Level 4 of network segmentation: advanced deployment of security practices at scale
 Each production and corporate services has its own networks: Tier I, Tier II, Tier III.
 
-The production environment is accessed from isolated computers. Each isolated computer does not have:
+The production environment is accessed from isolated computers. This type of segmentation is called an air gap, this is close to protecting state secrets. Each isolated computer does not have:
 1. incoming accesses from anywhere except from remote corporate laptops via VPN;
 2. outgoing access to the corporate network:
    - no access to the mail service - the threat of spear phishing is not possible;
