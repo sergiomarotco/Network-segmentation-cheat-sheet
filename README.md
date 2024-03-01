@@ -61,12 +61,12 @@ Implementing security services such us:
 4. sandbox;
 5. intrusion prevention system;
 6. vulnerability scanner;
-7. endpoint protection;
+7. endpoint and ATP protection;
 8. web application firewall;
 9. backup server.
 
 ### Disadvantages
-High costs of information security tools and information security specialists
+High costs of information security tools and information security specialists.
 
 ## Level 4 of network segmentation: advanced deployment of security practices at scale
 Each production and corporate services has its own networks: Tier I, Tier II, Tier III.
