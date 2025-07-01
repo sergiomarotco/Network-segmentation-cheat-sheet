@@ -39,7 +39,7 @@ Full duplication of the main supporting infrastructure for production network su
 2. time servers;
 3. other services, if available.<br/>
 
-Safer software development. Recommended implementing DevSecOps at least Level 1 of the [DSOMM](https://dsomm.timo-pagel.de/index.php), what requires the introduction of a separate storage of secrets for passwords, tokens, cryptographic keys, logins, etc., additional servers for SAST, DAST, fuzzing, SCA and another DevSecOps tools.
+Safer software development. Recommended implementing DevSecOps at least Level 1 of the [DSOMM](https://dsomm.owasp.org/circular-heatmap), what requires the introduction of a separate storage of secrets for passwords, tokens, cryptographic keys, logins, etc., additional servers for SAST, DAST, fuzzing, SCA and another DevSecOps tools.
 In case of problems in the supporting infrastructure in the corporate segment, this will not affect the production environment.
 It is a little harder for an attacker to compromise a production environment.<br/>
 Or you can implement at least Level 2 of the [SLSA](https://slsa.dev).
