@@ -5,7 +5,7 @@ This project was created to publish the best practices for segmentation of the c
 
 ## Where can I find diagrams?
 Graphic diagrams are available in the [Release page](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/releases)</br>
-The schema sources are located in the [repository](https://github.com/sergiomarotco/Best-practice-for-network-segmentation)
+The schema sources are located in the [repository](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/tree/main)
 
 ## Schematic symbols
 Elements used in network diagrams:<br/>
